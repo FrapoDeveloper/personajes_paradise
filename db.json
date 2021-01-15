@@ -1,0 +1,144 @@
+{
+    "personajes_paradise" : [
+            {
+              "id" :1,
+              "nombre" : "Eren Jaeger",
+              "years" :"19 (año 854)",
+              "birthdate" : "30 de marzo",
+              "gender": "Masculino",
+              "img" :  "https://i.pinimg.com/564x/85/0c/e7/850ce705819930ca65634ec3000ba4b3.jpg",
+              "gif" :"https://pa1.narvii.com/6450/552bf87591767a8467bdede43fef9b3dcb599531_hq.gif",
+              "description" : "Protagonista principal de la serie. Es el único hijo de Grisha y Carla Jaeger. A su vez, es el medio hermano menor de Zeke Jaeger. Es portador del Titán de Ataque, el Titán Fundador y el Titán Martillo de Guerra. Eren es oriundo del Distrito Shiganshina.",
+              "definition" : "Carece de talentos, mejoró a través de una diligencia sobresaliente y posee un gran sentido de propósito."
+ 
+            },
+            
+            {
+              "id" :2,
+              "nombre" : "Mikasa Ackerman",
+              "years" :"19 (año 854)",
+              "birthdate" : "10 de febrero",
+              "gender": "Femenino",
+              "img" :  "https://i.pinimg.com/564x/34/16/f1/3416f1dd73dff3eca16ed693ec721047.jpg",
+              "gif" :"https://data.whicdn.com/images/71191009/original.gif",
+              "description" : "Es la hermana adoptiva de Eren Jaeger. Cambió su personalidad tras el asesinato de sus padres, ya que cuando se revela su pasado se ve que Mikasa, antes de la tragedia, solía ser una niña alegre. Sin embargo, lo da todo por las personas que le importan.",
+              "definition" : "Su ejecución es ejemplar em todas las áreas, realmente es una genio con importancia histórica sin precedentes."
+        
+            },
+            
+            {
+              "id" :3,
+              "nombre" : "Armin Arlert",
+              "years" :"19 (año 854)",
+              "birthdate" : "03 de noviembre",
+              "gender": "Masculino",
+              "img" :  "https://i.pinimg.com/564x/7e/b0/54/7eb0549c345268f86fb187c51f371100.jpg",
+              "gif" :"https://pa1.narvii.com/6455/6afb85cfcbc23c3b79b4e6ac7481208ee7df4a8e_hq.gif",
+              "description" : "Actual comandante del Cuerpo de Exploración y un amigo de la infancia de Eren Jaeger y Mikasa Ackerman. Aunque físicamente es más débil que el resto de sus compañeros, demuestra una gran inteligencia a través de su capacidad para la formación de estrategias. ",
+              "definition" : "Le falta fuerza fisica pero lo compensa con su aptitud académica. El mejor estratega de la historia,"
+       
+            },
+            
+            
+             {
+             
+              "id" :4,
+              "nombre" : "Sasha Blouse",
+              "years" :"16 (año 854)",
+              "birthdate" : "26 de julio",
+              "gender": "Femenino",
+              "img" :  "https://i.pinimg.com/564x/b0/c0/13/b0c01339e3531f7043c9da1f63bf4972.jpg",
+              "gif" :"https://giffiles.alphacoders.com/114/114851.gif",
+              "description" : "Era una acaparadora de comida. Sasha nació y creció en Dauper, una villa con costumbres de caza poco poblada y rodeada de montañas. A pesar de que los titanes le horrorizaban, se unió al Cuerpo de Exploración. Su puntería es la mejor de toda la isla paradise",
+              "definition" : "Ella funciona trabajando de una manera poco convencional, esa mentalidad no la hace apta para actividades organizadas."
+     
+            },
+            
+            
+            
+             {
+             
+              "id" :5,
+              "nombre" : "Connie Springer",
+              "years" :"18 (año 854)",
+              "birthdate" : "02 de mayo",
+              "gender": "Masculino",
+              "img" :  "https://i.pinimg.com/564x/cf/72/cf/cf72cf75a5a95a13cdbd3180ea758f2d.jpg",
+              "gif" :"https://pa1.narvii.com/6552/102bcca1d857f3e156e3467e69c5aefc7555b3d9_00.gif",
+              "description" : "Es miembro del Cuerpo de Exploración, originario de Ragako, Connie se enroló en el ejército con el objetivo de hacer que su familia y su pueblo se enorgullecieran de él. Decidió unirse al Cuerpo de Exploración, a pesar del gran miedo que sentía por los titanes. ",
+              "definition" : "Tiene la habilidad para hacer giros cerrados, pero su mente no es en absoluto lo suficientemente fuerte."
+           
+            },
+            
+             {
+             
+              "id" :6,
+              "nombre" : "Levi Ackerman",
+              "years" :"35 (año 854)",
+              "birthdate" : "25 de diciembre",
+              "gender": "Masculino",
+              "img" :  "https://i.pinimg.com/564x/a7/e2/41/a7e2412f58efbcdfd23d01defc1e5528.jpg",
+              "gif" :"https://i.pinimg.com/originals/de/c1/2d/dec12d358675360cc0a5d5de617b9c54.gif",
+              "description" : "Es el capitán de escuadrón, literalmente líder de los soldados del escuadrón de operaciones especiales del Cuerpo de Exploración. Levi es un genio en el uso de las Maniobra Tridimensionales. Muchos civiles dicen que el es tan poderoso como 100 soldados juntos. ",
+              "definition" : "Conocido como el soldado más fuerte de la humanidad, tiene una expresión escéptica, la cual parece ser inalterable."
+              
+            },
+
+            {
+             
+                "id" :7,
+                "nombre" : "Erwin Smith",
+                "years" :"44 (año 854)",
+                "birthdate" : "14 de octubre",
+                "gender": "Masculino",
+                "img" :  "https://i.pinimg.com/564x/2e/34/79/2e347979ceae897f238c30e30f00ee4f.jpg",
+                "gif" :"https://i.pinimg.com/originals/e4/c8/86/e4c88668442af50129108dfd59530611.gif",
+                "description" : "Tiene una gran capacidad para el uso del EDM3, pudiendo pasar a través de muchos titanes para cortar a su objetivo. Es muy ágil y rápido, además posee mucha inteligencia, pudiendo así formular varias estrategias para el correcto desarrollo de las misiones.",
+                "definition" : "El comandante Erwin era de las personas capaces de hacer grandes cambios en el mundo gracias a sus decisiones y sacrificios."
+        
+              },
+
+              {
+                
+                "id" :8,
+                "nombre" : "Hange Zoë",
+                "years" :"28 (año 854)",
+                "birthdate" : "5 de septiembre",
+                "gender": "Femenino",
+                "img" :  "https://i.pinimg.com/564x/4f/ea/14/4fea14bc49300ca7de5c07081fa4ef5c.jpg",
+                "gif" :"https://i.pinimg.com/originals/8c/a9/70/8ca97076acda16c6f114a7f552561907.gif",
+                "description" : "Hange al parecer se divierte usando el Equipo de Maniobras Tridimensional, ella demuestra que es una experta combatiente, al derrotar a un titán sin mayores problemas. Luego de la muerte de Erwin Smith ella tomó el cargo de comandante de la isla Paradise.",
+                "definition" : "Experta en el ámbito de la ciencia de Paradise, fue lider del departamento de investigaciones del Cuerpo de Exploración"
+              },
+
+              {
+                
+                "id" :9,
+                "nombre" : "Jean Kirschtein",
+                "years" :"19 (año 854)",
+                "birthdate" : "7 de abril",
+                "gender": "Masculino",
+                "img" :  "https://i.pinimg.com/564x/b1/66/1a/b1661a5026758ea196ffd4b5498298d2.jpg",
+                "gif" :"https://i.pinimg.com/originals/c3/fa/97/c3fa972b093c0fafdcf4fb839ae63c06.gif",
+                "description" : "Jean es un buen líder aunque a veces se cuestiona a sí mismo sobre sus propias capacidades para regir el mando en cualquier tipo de misión. Jean ha demostrado ser capaz de dominar el equipo de obra tridimensional su determinación lo hace un excelente soldado.",
+                "definition" : "Jean tiene muchas habilidades, es impulsivo y puede ver las cosas con claridad en los peores momentos, un tipo muy feroz."
+              },
+
+              {
+                
+                "id" :10,
+                "nombre" : "Mike Zacharius",
+                "years" :"40 (año 854)",
+                "birthdate" : "1 de noviembre",
+                "gender": "Masculino",
+                "img" :  "https://i.pinimg.com/564x/11/a7/49/11a7495dd2be8df98bd2648bb04eaa74.jpg",
+                "gif" :"https://i.pinimg.com/originals/79/40/40/7940407fc4257170d4dcc0bf50cc6151.gif",
+                "description" : "Mike era un soldado sorprendentemente habilidoso, el cual no tenía problemas en vencer grandes cantidades de titanes por si solo. Sus amplias capacidades le permitieron vencer a él solo a 5 titanes en una espacio abierto. Puede holer titanes a una distancia.",
+                "definition" : "Es el segundo soldado más fuerte de la legión de conocimiento, tiene una capacidad de olfato que le permite oler titanes."
+              }
+        
+    ]
+    
+    
+
+}
